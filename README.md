@@ -13,3 +13,5 @@ The `HelloEthereum` contract allows you to:
 
 Perfect for learning Solidity basics or testing out smart contract interactions.
 
+
+## 🔧 How It Works
