@@ -15,3 +15,7 @@ Perfect for learning Solidity basics or testing out smart contract interactions.
 
 
 ## 🔧 How It Works
+
+1. Deploy the contract to a testnet or local blockchain.
+2. Call `setGreeting()` to update the greeting.
+3. Use `getGreeting()` to read the stored greeting message.
